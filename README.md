@@ -7,5 +7,5 @@
 - 📫 C#  [ .NetCore, .NetMvc ]
 - 📫 Java [ Android App Development ]
 - 📫 Javascript [ NodeJS, Angular, React, React-Native, Ionic-Native]
-- 😄 Database [ Mysql, Mssql, Postgres]
+- 😄 Databases [ Mysql, Mssql, Postgres, MongoDB ]
 - ⚡ Don't forget to follow me, Thanks.
