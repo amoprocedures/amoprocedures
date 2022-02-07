@@ -6,6 +6,6 @@
 - 📫 PHP [ Laravel, CodeIgniter ]
 - 📫 C#  [ .NetCore, .NetMvc ]
 - 📫 Java [ Android App Development ]
-- 📫 Javascript [ NodeJs, Angular, React, React-Native, Ionic-Native]
+- 📫 Javascript [ NodeJS, Angular, React, React-Native, Ionic-Native]
 - 😄 Database [ Mysql, Mssql, Postgres]
-- ⚡ Don't forget to follow me, thanks.
+- ⚡ Don't forget to follow me, Thanks.
