@@ -1,4 +1,4 @@
-### Software Engineer By Proffession @Jentroy(U) 👋
+### Software Engineer By Proffession @Jentroy 👋
 
 
 - 🔭 I’m currently working on multi-purpose applications
