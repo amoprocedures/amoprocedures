@@ -10,4 +10,5 @@
 - ⚡ IOS & Android - Cross Platform Development [ React-native, Ionic-Native ]
 - 😄 Databases [ Mysql, Mssql, Postgres, MongoDB ]
 ---
+- Youtube (https://www.youtube.com/channel/UCY2ELJdzCy1oehevQIN73mA?sub_confirmation=1)
 - ⚡ Don't forget to follow me, Thanks.
