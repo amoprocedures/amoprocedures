@@ -1,5 +1,5 @@
 ### Software Engineer [@Jentroy(U)](https://www.jentroy.com) 👋
-
+[My Youtube Channel](https://www.youtube.com/channel/UCY2ELJdzCy1oehevQIN73mA?sub_confirmation=1)
 ---
 - 🔭 I’m currently working on multi-purpose applications
 - 📫 Languages [ C#, Python, PHP, Java, Javascript ]
@@ -10,5 +10,5 @@
 - ⚡ IOS & Android - Cross Platform Development [ React-native, Ionic-Native ]
 - 😄 Databases [ Mysql, Mssql, Postgres, MongoDB ]
 ---
-> [Youtube](https://www.youtube.com/channel/UCY2ELJdzCy1oehevQIN73mA?sub_confirmation=1)
-> ⚡ Don't forget to follow me, Thanks.
+
+⚡ Don't forget to follow me, Thanks.
