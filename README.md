@@ -1,5 +1,5 @@
 ### Software Engineer [@Jentroy(U)](https://www.jentroy.com) 👋
- [:tv: Youtube Channel](https://www.youtube.com/channel/UCY2ELJdzCy1oehevQIN73mA?sub_confirmation=1)
+ [:tv: :two_hearts: Youtube Channel](https://www.youtube.com/channel/UCY2ELJdzCy1oehevQIN73mA?sub_confirmation=1)
 ---
 - 🔭 I’m currently working on multi-purpose applications
 - 📫 Languages [ C#, Python, PHP, Java, Javascript ]
