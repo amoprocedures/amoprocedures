@@ -3,7 +3,7 @@
 ---
 - 🔭 I’m currently working on multi-purpose applications
 - 📫 Languages [ C#, Python, PHP, Java]
-- 📫Python [FastAPI, Django]
+- 📫 Python [FastAPI, Django]
 - 📫 PHP [ Laravel, CodeIgniter ]
 - 📫 C#  [ .NetCore, .NetMvc ]
 - 📫 Java [ Android App Development ]
