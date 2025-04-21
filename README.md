@@ -2,7 +2,7 @@
  [:tv: :two_hearts: Youtube Channel](https://www.youtube.com/@amoprocedures?sub_confirmation=1)
 ---
 - 🔭 I’m currently working on multi-purpose applications
-- 📫 Languages [ C#, Python,JavaScript, PHP, Java]
+- 📫 Languages [ C#, Python, JavaScript, PHP, Java]
 - 📫 Python [FastAPI, Django]
 - 📫 PHP [ Laravel, CodeIgniter ]
 - 📫 C#  [ .NetCore, .NetMvc ]
