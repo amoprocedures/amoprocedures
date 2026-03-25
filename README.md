@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on multi-purpose applications
 - 📫 Languages [ C#, Python, JavaScript, PHP, Java]
 - 📫 Python [FastAPI]
-- 📫 PHP [ Laravel | CodeIgniter ]
-- 📫 C#  [.NetCore|ASPNET MVC ]
+- 📫 PHP [ Laravel, CodeIgniter ]
+- 📫 C#  [.NetCore, ASPNET MVC ]
 - 📫 Java [Android App Development ]
 - 📫 Javascript [ NodeJS, Angular, ReactJS, React-Native, Ionic-Native]
 - ⚡ IOS & Android - Cross Platform Development [ React Native, Ionic Native ]
