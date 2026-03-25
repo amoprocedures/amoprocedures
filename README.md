@@ -3,13 +3,13 @@
 ---
 - 🔭 I’m currently working on multi-purpose applications
 - 📫 Languages [ C#, Python, JavaScript, PHP, Java]
-- 📫 Python [FastAPI, Django]
-- 📫 PHP [ Laravel, CodeIgniter ]
-- 📫 C#  [ .NetCore, .NetMvc ]
-- 📫 Java [ Android App Development ]
-- 📫 Javascript [ NodeJS, Angular, React, React-Native, Ionic-Native]
-- ⚡ IOS & Android - Cross Platform Development [ React-native, Ionic-Native ]
-- 😄 Databases [ MySQL, MSSQL, Postgres, MongoDB,16dQdTLmp70HDVy_nn3uhzruVM7rEKTCn]
+- 📫 Python [FastAPI]
+- 📫 PHP [ Laravel | CodeIgniter ]
+- 📫 C#  [.NetCore|ASPNET MVC ]
+- 📫 Java [Android App Development ]
+- 📫 Javascript [ NodeJS, Angular, ReactJS, React-Native, Ionic-Native]
+- ⚡ IOS & Android - Cross Platform Development [ React Native, Ionic Native ]
+- 😄 Databases [ MySQL, MSSQL, Postgres, MongoDB]
 ---
 
 ⚡ Don't forget to follow me, Thanks.
