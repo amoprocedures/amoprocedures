@@ -5,7 +5,7 @@
 - 📫 Languages
 - ⚙️ Rust [Axum]
 - 🐍 Python [FastAPI]
-- 📫 PHP [ Laravel, CodeIgniter ]
+- 📫 PHP [ Laravel, Symfony, CodeIgniter ]
 - 📫 C#  [.NetCore, ASPNET MVC ]
 - 🍵 Java [Android App Development ]
 - 📫 Javascript [ NodeJS, Angular, ReactJS, React-Native, Ionic-Native]
