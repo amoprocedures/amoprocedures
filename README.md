@@ -10,7 +10,7 @@
 - 🍵 Java [Android App Development ]
 - 📫 Javascript [ NodeJS, Angular, ReactJS, React-Native, Ionic-Native]
 - ⚡ IOS & Android - Cross Platform Development [ React Native, Ionic Native ]
-- 😄 Databases [ MySQL, MSSQL, Postgres, MongoDB]
+- 😄 Databases [ MySQL, MSSQL, Postgres, MongoDB, Cassandra ]
 ---
 
 ⚡ Don't forget to follow me, Thanks.
