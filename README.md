@@ -9,10 +9,10 @@
 - 📫 C#  [.NetCore, ASPNET MVC ]
 - 🍵 Java [Android App Development ]
 - 📫 Javascript [ NodeJS, Angular, ReactJS, React-Native, Ionic-Native]
-- ⚡ IOS & Android - Cross Platform Development [ React Native, Ionic Native ]
-- Broker [RabbitMQ]
-- Event Streaming [Kafka]
-- Caching [Redis]
+- ⚡  IOS & Android - Cross Platform Development [ React Native, Ionic Native ]
+- ✅ Broker [RabbitMQ]
+- ✅ Event Streaming [Kafka]
+- ✅ Caching [Redis]
 - 😄 Databases [ MySQL, MSSQL, Postgres, MongoDB, Cassandra ]
 ---
 
