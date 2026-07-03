@@ -13,7 +13,7 @@
 - ✅ Broker [RabbitMQ]
 - ✅ Event Streaming [Kafka]
 - ✅ Caching [Redis]
-- 😄 Databases [ MySQL, MSSQL, Postgres, MongoDB, Cassandra ]
+- 📊 Databases [ MySQL, MSSQL, Postgres, MongoDB, Cassandra ]
 ---
 
 ⚡ Don't forget to follow me, Thanks.
